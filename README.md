@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="https://www.linkedin.com/in/sohipawad"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto:YOUR-EMAIL" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
   <code><a href="https://github.com/SuhibAwad" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
