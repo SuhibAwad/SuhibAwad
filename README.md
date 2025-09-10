@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sohipawad" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:YOUR-EMAIL" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
+  <code><a href="mailto:YOUR-EMAIL" title="Email">sohipawad1@gmail.com<img width="22" src="images/gmail.svg"> Email</a></code>
   <code><a href="https://github.com/SuhibAwad" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
 <br>
@@ -16,7 +16,7 @@
 <p align="center">
   Hi, I'm <b>Suhib Awad</b> 🌍, a <b>Cloud Computing & Artificial Intelligence Engineer</b> from Jordan 🇯🇴  
   <br><br>
-  ☁️ Specialized in <b>Alibaba Cloud</b> infrastructure, DevOps, and AI-driven solutions  
+  ☁️ Specialized in <b>Alibaba Cloud</b> infrastructure, and AI-driven solutions  
   <br>
   🤖 Passionate about applying AI to optimize cloud operations and solve real-world problems  
   <br>
@@ -24,7 +24,7 @@
   <br>
   💡 Open to collaboration on cloud-native and AI-powered innovative projects  
   <br>
-  📫 Reach me at: <a href="mailto:YOUR-EMAIL">YOUR-EMAIL</a>  
+ 
 </p>
 
 <hr>
@@ -34,10 +34,7 @@
 
   <!-- Cloud Providers -->
   <code><img title="Alibaba Cloud" height="25" src="images/alibaba-cloud.svg"></code>
-  <code><img title="AWS" height="25" src="images/aws.svg"></code>
-  <code><img title="Azure" height="25" src="images/azure.svg"></code>
-  <code><img title="Google Cloud" height="25" src="images/gcp.svg"></code>
-  
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>  
   <!-- Alibaba Cloud Services -->
   <code><img title="ECS" height="25" src="images/ecs.svg"> ECS</code>
   <code><img title="SLB" height="25" src="images/slb.svg"> SLB</code>
@@ -45,21 +42,12 @@
   <code><img title="VPC" height="25" src="images/vpc.svg"> VPC</code>
   <code><img title="ApsaraDB RDS" height="25" src="images/rds.svg"> ApsaraDB RDS</code>
   <code><img title="Cloud Security" height="25" src="images/security.svg"> Security</code>
-  
-  <!-- Containers & DevOps -->
+  <!-- Containers  -->
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-
   <!-- Databases -->
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-
-  <!-- Programming & AI -->
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
-  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
 </p>
 
 <hr>
