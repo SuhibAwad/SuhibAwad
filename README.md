@@ -20,7 +20,7 @@
   <br>
   🤖 Passionate about applying AI to solve real-world problems  
   <br>
-  🚀 Currently improving my skills in <b>Machine Learning</b> & <b>Cloud Security</b>  
+  🚀 Currently enhancing my expertise in <b>Machine Learning</b> & <b>Cloud Security</b>  
   <br>
   💡 Always open to collaboration on innovative projects  
   <br>
@@ -33,10 +33,34 @@
 <br>
 <p align="center">
 
-  <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
+  <!-- Cloud Providers -->
+  <code><img title="Alibaba Cloud" height="25" src="images/alibaba-cloud.svg"></code>
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
+  <code><img title="Azure" height="25" src="images/azure.svg"></code>
+  <code><img title="Google Cloud" height="25" src="images/gcp.svg"></code>
+  
+  <!-- Alibaba Cloud Services -->
+  <code><img title="ECS" height="25" src="images/ecs.svg"> ECS</code>
+  <code><img title="SLB" height="25" src="images/slb.svg"> SLB</code>
+  <code><img title="OSS" height="25" src="images/oss.svg"> OSS</code>
+  <code><img title="VPC" height="25" src="images/vpc.svg"> VPC</code>
+  <code><img title="ApsaraDB RDS" height="25" src="images/rds.svg"> ApsaraDB RDS</code>
+  <code><img title="Built-in Security" height="25" src="images/security.svg"> Built-in Security</code>
+  
+  <!-- Containers & DevOps -->
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+
+  <!-- Databases -->
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+
+  <!-- Programming & AI -->
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
+  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
+  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
 </p>
 
 <hr>
@@ -62,11 +86,11 @@
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SuhaibAwad/Cloud-AI-Projects" title="Cloud & AI Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SuhaibAwad&repo=Cloud-AI-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SuhaibAwad/Machine-Learning-Models" title="Machine Learning Models"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SuhaibAwad&repo=Machine-Learning-Models&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SuhaibAwad/Cloud-AI-Projects" title="Cloud & AI Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SuhibAwad&repo=Cloud-AI-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SuhaibAwad/Machine-Learning-Models" title="Machine Learning Models"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SuhibAwad&repo=Machine-Learning-Models&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/SuhaibAwad?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/SuhibAwad?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
