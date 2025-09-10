@@ -32,17 +32,9 @@
 <h2 align="center">🔥 Skills & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
-  <code><img title="Azure" height="25" src="images/azure.svg"></code>
-  <code><img title="Google Cloud" height="25" src="images/gcp.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
 </p>
