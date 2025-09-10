@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm <b>Suhaib Awad</b> 🌍, a <b>Cloud Computing & Artificial Intelligence Engineer</b> from Jordan 🇯🇴  
+  Hi, I'm <b>Suhib Awad</b> 🌍, a <b>Cloud Computing & Artificial Intelligence Engineer</b> from Jordan 🇯🇴  
   <br><br>
   ☁️ I specialize in Cloud Infrastructure, DevOps, and AI solutions  
   <br>
