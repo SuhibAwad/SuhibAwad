@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SuhaibAwad.SuhaibAwad">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SuhibAwad.SuhibAwad">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Suhaib+Awad....;Cloud+&+AI+Engineer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Suhib+Awad....;Cloud+&+AI+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
